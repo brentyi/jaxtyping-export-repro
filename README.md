@@ -22,6 +22,6 @@ Found 1 source file
 pyright 1.1.282
 /home/brent/exporttest/try_import.py
   /home/brent/exporttest/try_import.py:2:24 - error: "Imported" is not exported from module "exporttest.src"
-    Import from "typing_extensions" instead (reportPrivateImportUsage)
+    Import from "typing" instead (reportPrivateImportUsage)
 1 error, 0 warnings, 0 informations 
 ```

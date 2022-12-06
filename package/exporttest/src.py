@@ -1,4 +1,4 @@
 from typing import List
-from typing_extensions import Annotated as Imported
+from typing import List as Imported
 
 _Assigned = List
